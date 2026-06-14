@@ -10,7 +10,7 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Ken Rod Babatido",
   description: "Portfolio of Ken Rod Babatido",
-  icons: "/profile.png",
+  icons: "/Icon.png",
 };
 
 export default function RootLayout({
