@@ -11,7 +11,7 @@ import Image from "next/image";
 export default function Contacts() {
   return (
     <section
-      id="contacts"
+      id="Contacts"
       className="px-4 md:px-8 py-20 bg-[#0A0A0A]"
     >
       <div className="relative overflow-hidden rounded-[40px] bg-black border border-white/10 min-h-[700px]">
@@ -164,7 +164,7 @@ export default function Contacts() {
 
             {/* LinkedIn */}
             <motion.a
-  href="https://linkedin.com/in/YOUR_LINKEDIN"
+  href="https://www.linkedin.com/in/krbwork"
   target="_blank"
   rel="noopener noreferrer"
   whileHover={{ y: -5 }}
