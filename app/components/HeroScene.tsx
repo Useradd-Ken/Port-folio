@@ -29,6 +29,7 @@ export default function HeroScene() {
       <div
         className={`absolute inset-0 transition-transform duration-700 ease-out ${modelShift}`}
       >
+          
         <ModelViewer activeView={activeView} onViewChange={handleViewChange} />
       </div>
 

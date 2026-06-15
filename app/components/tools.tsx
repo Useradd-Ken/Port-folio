@@ -20,7 +20,7 @@ const icons = [
 
 export default function TechCarousel() {
   return (
-    <div className="w-full overflow-hidden bg-transparent py-6">
+    <div className="mt-3 w-full overflow-hidden bg-transparent py-6 max-w-7xl mx-auto px-6">
       <div className="relative flex w-max animate-scroll gap-10">
         {/* First set */}
         {icons.map((icon, i) => (

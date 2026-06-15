@@ -55,6 +55,7 @@ export default function Home() {
 
   return (
     <div className=" flex min-h-screen flex-col items-center justify-center px-6 text-center">
+      
       <h1 className="text-4xl font-bold bg-gradient-to-r from-gray-900 via-gray-700 to-gray-500 bg-clip-text text-transparent md:text-6xl lg:text-7xl">
         {displayedName}
         {!nameDone && (

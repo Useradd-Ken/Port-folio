@@ -2,7 +2,7 @@ export default function About() {
     return (
       <section
         id="MoreAbout"
-        className="mx-auto max-w-5xl px-6 py-24 text-gray-800"
+        className="pointer-events-auto mx-auto max-w-5xl px-6 py-24 text-gray-800"
       >
         <div className="space-y-10">
           <div>
